@@ -23,4 +23,6 @@ function App() {
   );
 }
 
+const z = '0';
+
 export default App;
